@@ -1,0 +1,1 @@
+unzip CFBypass.zip && unzip cfstrong.zip && unzip force.zip && unzip http1.zip && unzip http2.zip && unzip multibypass.zip && unzip httpbypassv2.zip && unzip HTTP-RAND.zip && unzip HTTP-RAW.zip && unzip HTTP-SOCKETS.zip && unzip HTTPTLS.zip && unzip RAW.zip && unzip run.zip && unzip socket.zip && unzip socketv4.zip && unzip tls.zip;
