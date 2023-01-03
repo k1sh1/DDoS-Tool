@@ -1,4 +1,4 @@
-<img src="https://github.com/k1sh1/DDoS-Test" alt="KISHI" />
+<img src="https://github.com/k1sh1/DDoS-Test/blob/main/Screenshot/KISHI.png" alt="KISHI" />
 </a>
 
 **Clone and Install Script**
