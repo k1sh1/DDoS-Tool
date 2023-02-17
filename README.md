@@ -15,5 +15,5 @@ sudo bash setup.sh
 **Launch Script**
 
 ```console
-sudo python cnc.py
+python3 cnc.py
 ```
